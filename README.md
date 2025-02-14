@@ -14,8 +14,8 @@ Built with Node.js and Express for the backend, and vanilla JavaScript for the f
 
 1. Clone the repository:
 ```bash
-git clone [your-repository-url]
-cd [repository-name]
+git clone https://github.com/YeomeoR/NetworkControl.git
+cd NetworkControl
 ```
 
 2. Install dependencies:
@@ -30,7 +30,7 @@ npm install
 npm start
 ```
 
-2. Open your browser and navigate to:
+2. Navigate to:
 ```
 http://localhost:3000
 ```
@@ -63,6 +63,3 @@ Updates network configuration settings
   "message": "Network configuration updated"
 }
 ```
-# NetworkControl
-# NetworkControl
-# NetworkControl
